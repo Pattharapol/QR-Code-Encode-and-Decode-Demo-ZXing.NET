@@ -1,0 +1,13 @@
+E:\#1 CodingArea\C#_Practice_Winform\QR-Code-Demo-ZXing.NET\QR-Code-Demo-ZXing.NET\bin\Debug\QR-Code-Demo-ZXing.NET.exe.config
+E:\#1 CodingArea\C#_Practice_Winform\QR-Code-Demo-ZXing.NET\QR-Code-Demo-ZXing.NET\bin\Debug\QR-Code-Demo-ZXing.NET.exe
+E:\#1 CodingArea\C#_Practice_Winform\QR-Code-Demo-ZXing.NET\QR-Code-Demo-ZXing.NET\bin\Debug\QR-Code-Demo-ZXing.NET.pdb
+E:\#1 CodingArea\C#_Practice_Winform\QR-Code-Demo-ZXing.NET\QR-Code-Demo-ZXing.NET\obj\Debug\QR-Code-Demo-ZXing.NET.csproj.AssemblyReference.cache
+E:\#1 CodingArea\C#_Practice_Winform\QR-Code-Demo-ZXing.NET\QR-Code-Demo-ZXing.NET\obj\Debug\QR_Code_Demo_ZXing.NET.Form1.resources
+E:\#1 CodingArea\C#_Practice_Winform\QR-Code-Demo-ZXing.NET\QR-Code-Demo-ZXing.NET\obj\Debug\QR_Code_Demo_ZXing.NET.Properties.Resources.resources
+E:\#1 CodingArea\C#_Practice_Winform\QR-Code-Demo-ZXing.NET\QR-Code-Demo-ZXing.NET\obj\Debug\QR-Code-Demo-ZXing.NET.csproj.GenerateResource.cache
+E:\#1 CodingArea\C#_Practice_Winform\QR-Code-Demo-ZXing.NET\QR-Code-Demo-ZXing.NET\obj\Debug\QR-Code-Demo-ZXing.NET.csproj.CoreCompileInputs.cache
+E:\#1 CodingArea\C#_Practice_Winform\QR-Code-Demo-ZXing.NET\QR-Code-Demo-ZXing.NET\obj\Debug\QR-Code-Demo-ZXing.NET.exe
+E:\#1 CodingArea\C#_Practice_Winform\QR-Code-Demo-ZXing.NET\QR-Code-Demo-ZXing.NET\obj\Debug\QR-Code-Demo-ZXing.NET.pdb
+E:\#1 CodingArea\C#_Practice_Winform\QR-Code-Demo-ZXing.NET\QR-Code-Demo-ZXing.NET\bin\Debug\zxing.dll
+E:\#1 CodingArea\C#_Practice_Winform\QR-Code-Demo-ZXing.NET\QR-Code-Demo-ZXing.NET\bin\Debug\zxing.pdb
+E:\#1 CodingArea\C#_Practice_Winform\QR-Code-Demo-ZXing.NET\QR-Code-Demo-ZXing.NET\obj\Debug\QR-Code-Demo-ZXing.NET.csproj.CopyComplete
